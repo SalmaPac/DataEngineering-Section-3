@@ -16,3 +16,5 @@ Following are the components used in the system design to achieve BI on key stat
 4. Amazon EC2 instance to run Lenses for MSK
 5. Amazon S3 Bucket  to serve as central metadata repository & Athena to query key statistics
 6. Amazon Quick Sight to visualize with BI capability
+
+Refer to the powerpoint for detailed conceptual system architecture and flow
